@@ -1,6 +1,8 @@
 # Logistic Regression Advertisement Click Prediction Using Scala ML
  This project demonstrates a machine learning pipeline using Apache Spark's MLlib to predict whether a user will click on an advertisement based on user behavior and demographics. The model used in this project is Logistic Regression, a binary classification algorithm that predicts the likelihood of a user clicking an ad (Yes/No
 Dataset
+![download](https://github.com/user-attachments/assets/591002f4-ece0-4f91-8a43-6507e3039d14)
+
 
 The dataset contains user data related to their daily internet usage, time spent on a website, demographic details such as age and income, and whether or not they clicked on an ad.
 Key Features:
